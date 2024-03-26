@@ -4,4 +4,4 @@
 
 ### Metodologia Científica
 * Estilo de citação Mendeley: ABNT-NBR 10520/2023 e ABNT-NBR 6023/2018 (atualizado em 19/11/2023) - [CSL](mendeley/abnt-lpmor22.csl)
-* Como buscar artigos científicos (atualizado em 25/03/2024) - [PPTX](slides/informatica_busca-artigos.pptx)
+* Como procurar artigos científicos (atualizado em 25/03/2024) - [PPTX](slides/informatica_busca-artigos.pptx)
